@@ -1,0 +1,8 @@
+dist
+node_modules
+npm-debug.log
+.sass-cache
+.DS_Store
+*.zip
+*.gz
+assets/
