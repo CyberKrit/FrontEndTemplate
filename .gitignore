@@ -6,7 +6,6 @@ npm-debug.log
 *.zip
 *.gz
 assets/
-footer.html
 
 # Windows image file caches
 Thumbs.db
