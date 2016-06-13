@@ -6,3 +6,9 @@ npm-debug.log
 *.zip
 *.gz
 assets/
+
+# Windows image file caches
+Thumbs.db
+
+#Folder config file
+Desktop.ini
